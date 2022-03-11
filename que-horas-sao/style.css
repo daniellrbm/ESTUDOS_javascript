@@ -1,0 +1,30 @@
+body {
+    background: lightseagreen;
+    font: normal 1em arial;
+}
+
+header {
+    color: snow;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+section {
+    background: snow;
+    border-radius: 8px;
+    padding: 16px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+    color: snow;
+    text-align: center;
+    font-style: italic;
+}
