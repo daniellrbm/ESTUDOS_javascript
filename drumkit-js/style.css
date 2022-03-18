@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url('img/bgdrums02.png') bottom center;
+    background: url('img/bgdrums02.png') center center;
     background-size: cover;
   }
   
@@ -11,7 +11,7 @@ html {
   }
 
 h1 {
-    margin: 10, 0, 0, 0;
+    margin: none;
     color: rgb(255, 250, 250, 0.9);
     font-size: 5em;
     font-family: 'Courier New', Courier, monospace;
@@ -30,7 +30,7 @@ footer {
   .keys {
     display: flex;
     flex: 1;
-    min-height: 80vh;
+    min-height: 75vh;
     align-items: center;
     justify-content: center;
   }
